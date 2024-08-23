@@ -17,14 +17,12 @@ These operators are useful in tasks such as low-level programming, graphics, and
 Procedure:
 Include Required Headers:
 
-cpp
-Copy code
+
 #include <iostream>
 using namespace std;
 Define Main Function:
 
-cpp
-Copy code
+syntax
 int main() {
     // Initialize variables
     unsigned int a = 12; // Binary: 00001100
