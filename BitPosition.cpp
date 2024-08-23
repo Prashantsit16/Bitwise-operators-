@@ -1,3 +1,6 @@
+//Prashant bajpai
+//23070123102
+// bitset position 
 #include <iostream>
 #include <bitset>
 using namespace std;
