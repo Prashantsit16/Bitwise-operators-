@@ -28,9 +28,12 @@ int main() {
     unsigned int a = 12; // Binary: 00001100
     unsigned int b = 7;  // Binary: 00000111
 
+OUTPUT:
+1.Bitwise Operators
+![Screenshot 2024-09-05 153346](https://github.com/user-attachments/assets/c32c7663-8dc5-4490-842f-55c1f73814f5
 
-Compile and Run:
-Use a C++ compiler to compile and run the program to observe the results of the bitwise operations on the variables.
+2.Bitset:
+![Screenshot 2024-09-05 153357](https://github.com/user-attachments/assets/47149877-445f-4b75-9d4d-b6635ff30f9f)
 
 Conclusion:
 Bitwise operators in C++ enable efficient manipulation of data at the bit level, providing powerful tools for low-level programming. They facilitate operations such as bitwise AND, OR, XOR, NOT, and bit shifts. Mastery of these operators is essential for performance optimization and system-level programming. The example illustrated their practical applications and effects clearly.
